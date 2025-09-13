@@ -6,3 +6,6 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6 (smallest)
+
+# Adding image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
